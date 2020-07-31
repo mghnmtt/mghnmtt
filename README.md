@@ -1,4 +1,4 @@
-<img src="https://github.com/mghnmtt/mghnmtt/blob/master/timg.gif" width="100">
+<img src="https://github.com/mghnmtt/mghnmtt/blob/master/timg.gif" width="300">
 
 ### Hi there 👋 ![](https://visitor-badge.laobi.icu/badge?page_id=journey-ad.readme)
 
@@ -19,11 +19,8 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/a074b1d99d36db5b72c8ef9c1436a074" target="_blank">📊 每周工作报告</a>
 ```text
-JavaScript 🕓 12h55m █████████▍░░░░░░░░░░░░░░░░░ 34.9%
-Vue.js     🕓 8h35m  ██████▎░░░░░░░░░░░░░░░░░░░░ 23.2%
-HTML       🕓 5h38m  ████░░░░░░░░░░░░░░░░░░░░░░░ 15.2%
-LESS       🕓 3h52m  ██▊░░░░░░░░░░░░░░░░░░░░░░░░ 10.5%
-Stylus     🕓 2h38m  █▉░░░░░░░░░░░░░░░░░░░░░░░░░  7.1%
+Swift  🕓 12h55m ████████████████████░ 90.0%
+OC     🕓 8h35m  █░░░░░░░░░░░░░░░░░░░░ 10.0%
 ```
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
@@ -36,10 +33,7 @@ Stylus     🕓 2h38m  █▉░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🔫 Counter-Strike: Global Offensive  🕘 2 hrs 20 mins
-🔫 Insurgency                        🕘 2 hrs 53 mins
-🔫 Fistful of Frags                  🕘 1 hrs 42 mins
-🎮 Juicy Realm                       🕘 0 hrs 43 mins
+🔫 Kenshi  🕘 2 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
