@@ -1,4 +1,4 @@
-<img src="https://github.com/journey-ad/journey-ad/blob/master/crino.gif" width="100">
+<img src="https://github.com/mghnmtt/mghnmtt/blob/master/timg.gif" width="100">
 
 ### Hi there 👋 ![](https://visitor-badge.laobi.icu/badge?page_id=journey-ad.readme)
 
